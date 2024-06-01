@@ -1,4 +1,7 @@
 José Reyes - 1116842
+
+Link del video: https://youtu.be/MQuJGgUvCOc
+
 Read me – Data munging
 
 Requerimientos
